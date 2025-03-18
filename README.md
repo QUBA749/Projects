@@ -2,7 +2,8 @@
 
 
 
-📌 Features
+                   📌 Features
+
 ✔️ Sales Dashboard – Analyzes sales trends, revenue, and key performance indicators.
 ✔️ Death Analysis Dashboard – Examines global death rates and causes.
 ✔️ Spotify Report – Insights into music streaming trends.
