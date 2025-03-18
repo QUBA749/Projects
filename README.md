@@ -1,4 +1,7 @@
-Welcome to my Power BI Dashboards & Data Reports repository! This repository contains various dashboards and analytical reports designed for data-driven insights.
+                            Welcome to my Power BI Dashboards & Data Reports repository! This repository contains various dashboards and analytical reports designed for data-driven insights.
+
+
+
 📌 Features
 ✔️ Sales Dashboard – Analyzes sales trends, revenue, and key performance indicators.
 ✔️ Death Analysis Dashboard – Examines global death rates and causes.
